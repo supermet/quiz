@@ -1,0 +1,50 @@
+# depslib dependency file v1.0
+1287925754 source:c:\progi\viktorina\inifile.cpp
+	"IniFile.h"
+
+1285742850 c:\progi\viktorina\inifile.h
+	<string>
+	<vector>
+	<fstream>
+	<algorithm>
+
+1317814681 source:c:\progi\viktorina\timer.cpp
+	"Timer.h"
+
+1317814754 c:\progi\viktorina\timer.h
+	"windows.h"
+
+1318065858 source:c:\progi\viktorina\functions.cpp
+	"functions.h"
+	"timer.h"
+
+1318061157 c:\progi\viktorina\functions.h
+	<windows.h>
+	<string>
+	<sstream>
+	<fstream>
+	<iostream>
+	<algorithm>
+	<vector>
+	<io.h>
+	<time.h>
+	<math.h>
+	"map"
+	"CppSQLite3.h"
+
+1318060437 c:\progi\viktorina\cppsqlite3.h
+	"sqlite3.h"
+	<cstdio>
+	<cstring>
+	<string>
+
+1286476668 c:\progi\viktorina\sqlite3.h
+	<stdarg.h>
+
+1318063531 source:c:\progi\viktorina\main.cpp
+	"functions.h"
+
+1318060339 source:c:\progi\viktorina\cppsqlite3.cpp
+	"CppSQLite3.h"
+	<cstdlib>
+
